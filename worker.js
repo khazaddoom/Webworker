@@ -1,0 +1,1 @@
+self.postMessage('I am the greatest worker...')
